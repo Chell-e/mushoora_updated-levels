@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dxiuvhsebmkio"]
+
+[ext_resource type="Texture2D" uid="uid://ckond0hx7ph6h" path="res://assets/charOffensive.png" id="1_nmhik"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="CharOffensive" type="Sprite2D" parent="."]
+position = Vector2(272, 408)
+texture = ExtResource("1_nmhik")
